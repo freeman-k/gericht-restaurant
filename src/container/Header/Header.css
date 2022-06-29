@@ -11,3 +11,8 @@
   font-size: 90px;
   /* font- text-yellow-500 tracking-wider uppercase leading-[117px] text-[90px] */
 }
+
+.app__header-img img {
+  width: 80%;
+  /* w-4/5 */
+}
